@@ -1,0 +1,9 @@
+CPAN_AUTHOR="rschupp"
+inherit perl
+
+NAME="perl-PAR-Dist"
+VERSION=0.49
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="PAR distribution toolkit module"
+DESCRIPTION="PAR::Dist is a toolkit to create and manipulate PAR distributions."
